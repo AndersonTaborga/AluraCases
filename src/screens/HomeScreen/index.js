@@ -4,8 +4,8 @@ import Link from '../../components/Link'
 import { theme } from '../../theme/theme';
 import { Image, Box, Text, Icon, Input, Button } from '../../theme/components';
 
-const LOGO_ALURA_URL = 'Assets/images/logo-alura.png';
-const SIDE_IMAGE_URL = 'Assets/images/alura-cases.png'
+const LOGO_ALURA_URL = 'Assets/images/alura-logo.svg';
+const SIDE_IMAGE_URL = 'Assets/images/alura-cases.png';
 
 function SideImage() {
   return (
